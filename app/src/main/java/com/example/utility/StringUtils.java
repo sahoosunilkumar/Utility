@@ -1,5 +1,5 @@
 package com.example.utility;
 
 public class StringUtils {
-    public static String GREET = "Hello World4";
+    public static String GREET = "Hello World5";
 }
